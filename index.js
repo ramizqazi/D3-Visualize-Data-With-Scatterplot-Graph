@@ -1,13 +1,3 @@
-/* global d3 */
-/* eslint-disable max-len */
-
-// eslint-disable-next-line no-unused-vars
-var projectName = "scatter-plot";
-
-// RETURN TO GIDCDN link once chances propogate
-
-// coded by @paycoguy
-
 var url =
   "https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json";
 var margin = {
